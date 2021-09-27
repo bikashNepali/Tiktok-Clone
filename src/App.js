@@ -1,6 +1,11 @@
+import Header from "./Header";
+
 function App() {
   return (
-    <h1>hello world</h1>
+    
+    // header function call
+    <Header />
+
   );
 }
 
